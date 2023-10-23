@@ -16,8 +16,22 @@ Objectives of this assignment are as following :
    viii)BMI Vs Charges
    ix) Sex and sum of charges
    x) Sex , bmi and charges
-4) Build correlation matrix. Also there was a scatter plot of charges Vs BMI. Theree was a correlation between it. Also there is a correlation between smoker and charges.
-5) Build model using K-Fold cross validation.
-6) Build model using Linear Regression.
-7) There was a graph drawn between predicted value vs Actual Value .
-8) List out the performance measures in a tabular format. (Accuracy, F1-score, Efficiency, sensitivity or specificity)
+![image](https://github.com/pushkar243/Sem1-insurance-pred-ML/assets/8349513/c28abc15-5652-4bbd-9474-7be1eb665614)
+
+![image](https://github.com/pushkar243/Sem1-insurance-pred-ML/assets/8349513/2826e4fa-eded-41aa-ae08-7ed5a9a1c591)
+
+
+![image](https://github.com/pushkar243/Sem1-insurance-pred-ML/assets/8349513/747b859c-3a09-4f31-9ad3-b18425b6f2df)
+
+   
+5) Build correlation matrix. Also there was a scatter plot of charges Vs BMI. Theree was a correlation between it. Also there is a correlation between smoker and charges.
+   ![image](https://github.com/pushkar243/Sem1-insurance-pred-ML/assets/8349513/03d0f1c4-e25a-43b1-87b5-e1eb7fd34c48)
+
+7) Build model using K-Fold cross validation.
+
+8) Build model using Linear Regression.
+![image](https://github.com/pushkar243/Sem1-insurance-pred-ML/assets/8349513/2a7adce4-1f18-4a4f-8965-822b7d46b199)
+
+9) There was a graph drawn between predicted value vs Actual Value .
+![image](https://github.com/pushkar243/Sem1-insurance-pred-ML/assets/8349513/53798a1c-8888-4de5-b765-bb3601651c55)
+10) List out the performance measures in a tabular format. (Accuracy, F1-score, Efficiency, sensitivity or specificity)
