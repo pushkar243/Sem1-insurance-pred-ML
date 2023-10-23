@@ -35,3 +35,5 @@ Objectives of this assignment are as following :
 9) There was a graph drawn between predicted value vs Actual Value .
 ![image](https://github.com/pushkar243/Sem1-insurance-pred-ML/assets/8349513/53798a1c-8888-4de5-b765-bb3601651c55)
 10) List out the performance measures in a tabular format. (Accuracy, F1-score, Efficiency, sensitivity or specificity)
+    
+![image](https://github.com/pushkar243/Sem1-insurance-pred-ML/assets/8349513/e98adc68-9f72-46bf-9449-acc2d3f058f9)
